@@ -9,7 +9,7 @@ You can install this package on Wally.
 
 ```toml
 [dependencies]
-Promise = "lukadev-0/typed-promise@4.0.2"
+Promise = "stevendahfish/typed-promise@4.0.2"
 ```
 
 ### wally-package-types
@@ -28,3 +28,6 @@ because of Luau limitations.
 The constructors, like `Promise.new` or `Promise.try` are strictly typed and return a `TypedPromise<T...>`.
 
 Make sure you run [wally-package-types](#wally-package-types) in order to access the types!
+
+## Fork
+This fork adds comments that originally existed in the Promises library to the type definitions.

@@ -1,6 +1,6 @@
 [package]
-name = "lukadev-0/typed-promise"
-description = "Promises with types"
+name = "stevendahfish/typed-promise"
+description = "Promises with types & comments"
 version = "4.0.2"
 license = "MIT"
 registry = "https://github.com/UpliftGames/wally-index"
